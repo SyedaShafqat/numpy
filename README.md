@@ -14,7 +14,7 @@ This script demonstrates basic array manipulation using NumPy:
 
 3. **Removing Duplicates**: A copy of the original array is made using NumPy's `np.copy()` function. Then, duplicate values are removed from the copied array using `np.unique()`, and the resulting array without duplicates is printed.
 
-### Example
-![Output Screenshot](https://github.com/SyedaShafqat/numpy/blob/master/OUTPUT.png)https://github.com/SyedaShafqat/numpy/blob/master/OUTPUT.png)
+### My code OutPut
+![Output Screenshot](https://github.com/SyedaShafqat/numpy/blob/master/OUTPUT.png)
 
 
