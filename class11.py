@@ -1,9 +1,6 @@
 import numpy as np
 from numpy import random
 
-import numpy as np
-from numpy import random
-
 # Generate a random array
 x = random.randint(100, size=(100))
 
